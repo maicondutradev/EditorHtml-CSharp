@@ -1,0 +1,15 @@
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.exe
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.deps.json
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.runtimeconfig.json
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.dll
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\bin\Debug\net8.0\EditorHtml.pdb
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.AssemblyInfo.cs
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.sourcelink.json
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.dll
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\refint\EditorHtml.dll
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.pdb
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\EditorHtml.genruntimeconfig.cache
+C:\Users\maico\Documents\GitHub\EditorHtml-CSharp\EditorHtml\obj\Debug\net8.0\ref\EditorHtml.dll

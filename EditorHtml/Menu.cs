@@ -11,6 +11,10 @@ namespace EditorHtml
             Console.ForegroundColor = ConsoleColor.White;
 
             DrawScreen();
+            WriteOptions();
+
+            var option = short.Parse(Console.ReadLine());
+            HandleMenuOption(option);
         }
 
         public static void DrawScreen()
@@ -18,7 +22,7 @@ namespace EditorHtml
 
             DrawLine();
 
-            for (int lines = 0; lines <= 5; lines++)
+            for (int lines = 0; lines <= 10; lines++)
             {
                 Console.Write("|");
 
@@ -50,6 +54,44 @@ namespace EditorHtml
             }
         }
 
+        public static void WriteOptions()
+        {
+            Console.SetCursorPosition(3, 1);
+            Console.Write("Editor HTML");
+            Console.SetCursorPosition(3, 2);
+            Console.Write("=======================================");
+            Console.SetCursorPosition(3, 3);
+            Console.Write("Selecione uma opção abaixo:");
+            Console.SetCursorPosition(3, 5);
+            Console.Write("1 - Novo arquivo");
+            Console.SetCursorPosition(3, 6);
+            Console.Write("2 - Abrir arquivo");
+            Console.SetCursorPosition(3, 7);
+            Console.Write("0 - Sair");
+            Console.SetCursorPosition(3, 9);
+            Console.Write("Opção: ");
+        }
 
+        public static void HandleMenuOption(short option)
+        {
+            switch (option)
+            {
+                case 1:
+                    Console.WriteLine("NewFile");
+                    break;
+                case 2:
+                    Console.WriteLine("OpenFile");
+                    break;
+                case 0:
+                    {
+                        Console.Clear();
+                        Environment.Exit(0);
+                    }
+                    break;
+                default:
+                    Console.WriteLine("Valor inválido!");
+                    break;
+            }
+        }
     }
 }
